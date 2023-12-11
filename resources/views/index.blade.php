@@ -12,7 +12,7 @@
             @foreach ($comics as $comic)
             <div class="col-2"> 
                 <div class="comic-card">
-                    <img src="{{ $comic['thumb'] }}" alt="">
+                    <img src="{{ $comic['thumb'] }}">
                     <p class="title">{{$comic['title']}}</p>
                 </div>
             </div>
@@ -23,7 +23,7 @@
 
 <section class="informations">
     <div class="container">
-        <ul class="d-flex justify-content-between py-5">
+        <ul class="d-flex justify-content-between py-5 mb-0">
             <li>DIGITAL COMICS</li>
             <li>DC MERCHANDISE</li>
             <li>SUBSCRIPTION</li>

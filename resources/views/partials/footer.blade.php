@@ -1,4 +1,4 @@
-<footer>
+<footer class="py-3">
     <section>
             <div class="top-footer">
                 <div class="container">
