@@ -2,12 +2,12 @@
     <section>
             <div class="top-footer">
                 <div class="container">
-                    <div class="menu-list d-flex">
+                    <div class="menu-list d-flex gap-4 mb-3">
                         <div class="dc-comics-shop">
 
                             <div class="dc-comics">
                                 <h3>DC COMICS</h3>
-                                <ul>
+                                <ul class="list-group">
                                     <li>Characters</li>
                                     <li>Comics</li>
                                     <li>Movies</li>
@@ -20,7 +20,7 @@
 
                             <div class="shop">
                                 <h3>SHOP</h3>
-                                <ul>
+                                <ul class="list-group">
                                     <li>Shop DC</li>
                                     <li>Shop DC Collectibles</li>
                                 </ul>
@@ -30,7 +30,7 @@
 
                         <div class="dc">
                             <h3>DC</h3>
-                            <ul>
+                            <ul class="list-group">
                                 <li>Terms Of Use</li>
                                 <li>Privacy policy</li>
                                 <li>Ad Choices</li>
@@ -48,7 +48,7 @@
 
                         <div class="sites">
                             <h3>SITES</h3>
-                            <ul>
+                            <ul class="list-group">
                                 <li>DC</li>
                                 <li>MAD Magazine</li>
                                 <li>DC Kids</li>

@@ -10,12 +10,12 @@
     </div>
     <div class="bottom-header">
         <div class="container">
-            <div class="nav-list d-flex gap-4 justify-content-between flex-wrap">
+            <div class="nav-list d-flex gap-4 justify-content-between flex-wrap py-2">
                 <div class="logo">
-                    logo
+                    <img src="{{Vite::asset('resources/img/dc-logo.png')}}" alt="">
                 </div>
     
-                <ul class="d-flex gap-3 flex-wrap">
+                <ul class="d-flex gap-3 flex-wrap mb-0 align-items-center">
                     <li>CHARACTERS</li>
                     <li>COMICS</li>
                     <li>MOVIES</li>
@@ -28,7 +28,7 @@
                     <li>SHOP</li>
                 </ul>
     
-                <div class="search">
+                <div class="search d-flex align-items-center">
                     search
                 </div>
             </div>
